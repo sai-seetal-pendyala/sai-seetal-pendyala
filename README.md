@@ -5,7 +5,7 @@
 🧩 SQL • R • SAS • Power BI | Dashboards + Decision-Making
 
 ## What I do
-I turn messy data into clear marketing decisions — using modeling, segmentation, experimentation, and performance analytics.
+I turn messy data into clear marketing decisions using modeling, segmentation, experimentation, and performance analytics.
 
 ## Featured portfolio projects
 - 🔮 Predictive Modeling: Applicant Withdrawal (Behavioral vs Academic vs Combined)
