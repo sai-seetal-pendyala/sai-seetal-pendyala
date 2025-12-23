@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Sai Seetal Pendyala👋
 
-<!--
-**sai-seetal-pendyala/sai-seetal-pendyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Marketing Analytics @ Illinois Institute of Technology (GPA: 4.0)  
+📊 Marketing Analytics | Predictive Modeling | Campaign Optimization  
+🧩 SQL • R • SAS • Power BI | Dashboards + Decision-Making
 
-Here are some ideas to get you started:
+## What I do
+I turn messy data into clear marketing decisions — using modeling, segmentation, experimentation, and performance analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured portfolio projects
+- 🔮 Predictive Modeling: Applicant Withdrawal (Behavioral vs Academic vs Combined)
+- 📈 Campaign Optimization: Budget allocation under constraints (simulation-based)
+- 💰 Customer Lifetime Value & Segmentation: RFM/CLV + strategy recommendations
+- 🗄 Retail Database Design: ERD + SQL DDL/DML + analytical reporting queries
+- 📊 Promotion Elasticity: Quantitative marketing models + managerial insights
+- 📉 Visual Analytics: Power BI dashboards for business storytelling
+
+## Tool stack
+**Analytics:** classification, segmentation, CLV, regression, experimentation  
+**Languages:** SQL, R, SAS  
+**Viz:** Power BI, Tableau, ggplot2  
+**Workflow:** Git, documentation, reproducible notebooks
+
+## Connect
+LinkedIn: www.linkedin.com/in/sai-seetal-pendyala 
+Resume: 
+Email: spendyala1@hawk.illinoistech.edu
