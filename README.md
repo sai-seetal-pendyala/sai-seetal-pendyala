@@ -1,6 +1,6 @@
 # Hi, I’m Sai Seetal Pendyala👋
 
-🎓 MS in Marketing Analytics @ Illinois Institute of Technology (GPA: 4.0)  
+🎓 MS in Marketing Analytics @ Illinois Institute of Technology  
 📊 Marketing Analytics | Predictive Modeling | Campaign Optimization  
 🧩 SQL • R • SAS • Power BI | Dashboards + Decision-Making
 
